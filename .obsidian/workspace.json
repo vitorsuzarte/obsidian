@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5f87c37d0e7081bc",
+        "id": "2ade010a19fbe0c4",
         "type": "tabs",
         "children": [
           {
-            "id": "15e5876c517ab2ea",
+            "id": "af7288679a0c0827",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/raw.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "raw"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#destilled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +70,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "a1eb67ca0441b09d",
@@ -95,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/template.md",
+                "file": "Nailing the Behavioral Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for template"
+              "title": "Backlinks for Nailing the Behavioral Interview"
             }
           },
           {
@@ -157,20 +152,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/template.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of template"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 273.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -182,60 +177,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "c9fb21c4292374b9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "64a58639e843b902",
-        "type": "window",
-        "children": [
-          {
-            "id": "61e62da24747eed3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8717a1cd2ae0272a",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/git-doc/Getting+Started",
-                    "title": "Getting Started - Git Documentation - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Getting Started - Git Documentation - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "15e5876c517ab2ea",
+  "active": "af7288679a0c0827",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "To-do Database.md",
+    "Study Program.md",
+    "daily-tracker/2026-03-09.md",
+    "Workout Program.md",
+    "daily-tracker/2026-03-05.md",
+    "Livro dos Espíritos.md",
+    "daily-tracker/2026-03-04.md",
+    "Matemática Ensino Médio - Tópicos e Subtópicos.md",
+    "projects/Visual Math.md",
+    "Fundamentals of Software Architecture.md",
+    "Discalculia.md",
+    "Untitled.canvas",
+    "_templates/private-lessons.md",
+    "conversa bruno.md",
+    "Dev Masterplan.md",
+    "Aspnet Fundamentals.md",
+    "ASP.NET Core.md",
+    "daily-tracker/2026-02-27.md",
     "_templates/raw.md",
-    "cwi",
-    "destilled.md",
-    "_templates",
-    "4.destilled",
-    "3.medium",
-    "Welcome.md",
-    "2.raw",
-    "cwi/problem-history",
-    "1.daily-tracker",
-    "desktop.ini"
+    "projects/exam-az-204/overview.md",
+    "SOLID - resumo.md",
+    "daily-tracker/2026-02-20.md",
+    "Math Diagnosis and Review Plan.md",
+    "_templates/daily-tracker.md",
+    "daily-tracker/2026-02-25.md",
+    "daily-tracker/2026-02-23.md",
+    "Untitled",
+    "books",
+    "_files/Pasted image 20260206164239.png",
+    "projects/interview",
+    "projects/roadmap/aspnet-core",
+    "projects/roadmap",
+    "Pasted image 20260113151122.png",
+    "projects/exam-az-204",
+    "_files/Pasted image 20260116165908.png",
+    "_files",
+    "projects",
+    "Novo(a) Documento de Texto.txt",
+    "cwi"
   ]
 }
